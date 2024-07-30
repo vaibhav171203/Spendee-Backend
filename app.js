@@ -22,6 +22,7 @@ const allowedOrigins = [
   "http://localhost:3000",
   "https://expense-tracker-app-knl1.onrender.com",
   "https://spendee-backend-1.onrender.com/",//vg 
+  "https://spendee-expense123.netlify.app/register",
   // add more origins as needed
 ];
 
